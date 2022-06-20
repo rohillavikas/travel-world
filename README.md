@@ -1,1 +1,1 @@
-[travel-the-world](https://rohillavikas.github.io/travel-world/)
+[Travel-the-world](https://rohillavikas.github.io/travel-world/)
